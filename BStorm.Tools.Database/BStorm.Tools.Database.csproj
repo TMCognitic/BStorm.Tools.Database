@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Version>1.0.2</Version>
+    <Authors>BriareosTM</Authors>
+    <Company>BStorm</Company>
+    <Description>Simple classe de connexion au bases de donnée proposant des méthodes d'extension sur le type DbConnection
+ExecuteScalar, ExecuteNonQuery, ExecuteReader</Description>
+    <Copyright>Morre Thierry Cognitic/BStorm</Copyright>
+    <PackageProjectUrl>https://github.com/TMCognitic/BStorm.Tools.Database</PackageProjectUrl>
+    <PackageReadmeFile>BStorm.Tools.Database.1.0.1.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/TMCognitic/BStorm.Tools.Database</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
